@@ -4,7 +4,7 @@ I am Software QA engineer(SDET) and Electrical-Electronics engineer.
 
 ### Skills and Experience
 * JAVA
-* SQL-MySQL-MariaDB
+* SQL
 * Selenium
 * JUnit
 * TestNG
@@ -15,6 +15,9 @@ I am Software QA engineer(SDET) and Electrical-Electronics engineer.
 * GitHub
 * Jira
 * Jenkins
+* Agile/SDLC/STLC
+
+https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif
 
 
 <!--
