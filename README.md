@@ -1,8 +1,11 @@
 ## Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
-I am Software QA engineer(SDET) and Electrical-Electronics engineer.
+### &#60; About me &#47;&#62;
+I am Software QA engineer(SDET) and Electrical-Electronics engineer, I am open to learning and extremely curious🙂    
+I constantly contribute to my environment👍     
+Finally, test tools are to me what a toy is to a child.
 
-### Skills and Experience
+### { Skills and Experience }
 * JAVA
 * SQL
 * Selenium
@@ -16,7 +19,7 @@ I am Software QA engineer(SDET) and Electrical-Electronics engineer.
 * Jira
 * Jenkins
 * Agile/SDLC/STLC
-
+* Maven
 
 
 
