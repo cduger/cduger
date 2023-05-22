@@ -1,7 +1,7 @@
 ## Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
 ### &#60; About me &#47;&#62;
-I am Software QA engineer(SDET) and Electrical-Electronics engineer, I am open to learning and extremely curious🙂    
+I'm Cihat from Turkey, I'mm Software QA engineer(SDET) and Electrical-Electronics engineer, I'm open to learning and extremely curious🙂    
 I constantly contribute to my environment👍     
 Finally, test tools are to me what a toy is to a child.
 
