@@ -17,7 +17,7 @@ I am Software QA engineer(SDET) and Electrical-Electronics engineer.
 * Jenkins
 * Agile/SDLC/STLC
 
-< img src= "https://github.com/cduger/cduger/blob/1390a2de7195dd65fdca9e57c586a34c9d741c92/github.gif" />
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
 
 <!--
