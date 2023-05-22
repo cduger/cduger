@@ -17,7 +17,7 @@ I am Software QA engineer(SDET) and Electrical-Electronics engineer.
 * Jenkins
 * Agile/SDLC/STLC
 
-https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif
+
 
 
 <!--
