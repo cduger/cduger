@@ -12,12 +12,12 @@ I am Software QA engineer(SDET) and Electrical-Electronics engineer.
 * Apache POI
 * Postman
 * REST Assured
-* GitHub
+* GitHub <img src="https://github.com/cduger/cduger/blob/47173962d21a14abfeb54ed54c34d40647096a72/github.gif" width="40px"> 
 * Jira
 * Jenkins
 * Agile/SDLC/STLC
 
-<img src="https://github.com/cduger/cduger/blob/47173962d21a14abfeb54ed54c34d40647096a72/github.gif" width="100px"> 
+
 
 
 <!--
