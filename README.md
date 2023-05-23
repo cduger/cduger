@@ -6,7 +6,7 @@ I constantly contribute to my environment👍
 Finally, test tools are to me what a toy is to a child.
 
 ### { Skills and Experience }
-* JAVA
+* JAVA    
 * SQL
 * Selenium
 * JUnit
@@ -16,10 +16,9 @@ Finally, test tools are to me what a toy is to a child.
 * Postman
 * REST Assured
 * Maven
-* GitHub <img src="https://github.com/cduger/cduger/blob/47173962d21a14abfeb54ed54c34d40647096a72/github.gif" width="40px"> 
 * Jira
 * Jenkins
-* Agile/SDLC/STLC
+* GitHub <img src="https://github.com/cduger/cduger/blob/47173962d21a14abfeb54ed54c34d40647096a72/github.gif" width="40px"> 
 
 
 
